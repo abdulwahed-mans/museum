@@ -1,0 +1,20 @@
+{
+  "common": {
+    "title": "Digital Museum of Palestinian Heritage",
+    "nav": {
+      "home": "Home",
+      "collection": "Collection",
+      "about": "About"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Preserving Palestinian Musical Heritage",
+      "subtitle": "Discover traditional music and songs that tell the story of a people"
+    },
+    "featured": {
+      "title": "Featured Songs",
+      "viewAll": "View All"
+    }
+  }
+}
